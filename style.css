@@ -1,0 +1,87 @@
+.item {
+    /* width: 200px; */
+    height: 200px;
+    font-size: 50px;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+.bg-crimson {
+    background-color: crimson;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-teal {
+    background-color: teal;
+}
+
+.wrapper {
+    /* display: flex; */
+    /* padding: 100px; */
+    justify-content: center;
+}
+
+.wrapper2 {
+    display: flex;
+    /* padding: 100px; */
+    justify-content: space-between;
+}
+
+.wrapper3 {
+    display: flex;
+    /* padding: 100px; */
+    justify-content: flex-start;
+}
+.wrapper4 {
+    display: flex;
+    /* padding: 100px; */
+    justify-content: flex-end;
+}
+.wrapper5 {
+    height: 400px;
+    background: gray;
+    display: flex;
+    /* padding: 100px; */
+    align-items: center;
+}
+.wrapper6 {
+    height: 400px;
+    background: gray;
+    display: flex;
+    /* padding: 100px; */
+    align-items: flex-start;
+}
+.wrapper7 {
+    height: 400px;
+    background: gray;
+    display: flex;
+    /* padding: 100px; */
+    align-items: flex-end;
+}
+.wrapper8 {
+    height: 400px;
+    background: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper9 {
+    height: 400px;
+    background: gray;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
